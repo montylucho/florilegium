@@ -1,5 +1,4 @@
-# a ConTeXt LMTX installation (the standalone distribution): its tree for
- modules
+# A ConTeXt LMTX florilegium module installation  
 cd /path/to/context/tex/texmf-modules && unzip/path/to/t-florilegium.zip
 mtxrun --generate
 Usage:
